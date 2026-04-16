@@ -14,10 +14,10 @@
 Languages & Tools:
 
 <img src="github_image/java.png" width="40" height="40"/>
-![visual studio icon](github_image/visual_studio.png)
-![javascript](github_image/js.png)
-![react icon](github_image/react.png)
-![html](github_image/html_5.png)
-![css](github_image/css.png)
-![postgres icon](github_image/postgre.png)
-![visual studio code](github_image/visual_studio_code.png)
+<img src="github_image/visual_studio.png" width="40" height="40"/>
+<img src="github_image/js.png" width="40" height="40"/>
+<img src="github_image/react.png" width="40" height="40"/>
+<img src="github_image/html_5.png" width="40" height="40"/>
+<img src="github_image/css.png" width="40" height="40"/>
+<img src="github_image/postgre.png" width="40" height="40"/>
+<img src="github_image/visual_studio_code.png" width="40" height="40"/>
