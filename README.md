@@ -13,7 +13,7 @@
 
 Languages & Tools:
 
-![java icon](github_image/java.png)
+<img src="github_image/java.png" width="40" height="40"/>
 ![visual studio icon](github_image/visual_studio.png)
 ![javascript](github_image/js.png)
 ![react icon](github_image/react.png)
