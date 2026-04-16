@@ -4,18 +4,19 @@
 
 - 💻 Building full-stack web applications with React & Java
 - 🧑‍🔬 Big fan of automated testing, continous delivery and clean coding practices
-- 🌱 Always learning and improving my development skills
+- 🌱 Attention to detail in every stage of development
 
 ### Connect with me:
 
-[![facebook profile url](github_image/facebook.png)](https://www.facebook.com/anas.ayusuf.3?locale=da_DK)
-[![linkedin profile url](github_image/linkedin.png)](https://www.linkedin.com/in/anas-yusuf-85a033264/)
 [![github profile url](github_image/internet.png)](https://github.com/AnasYusufDev)
+[![linkedin profile url](github_image/linkedin.png)](https://www.linkedin.com/in/anas-yusuf-85a033264/)
+[![facebook profile url](github_image/facebook.png)](https://www.facebook.com/anas.ayusuf.3?locale=da_DK)
+
+
 
 
 
 Languages & Tools:
-
 ![java icon](github_image/icons8-java-48.png)
 ![visual studio icon](github_image/visual_studio.png)
 ![javascript](github_image/js.png)
