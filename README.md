@@ -13,7 +13,7 @@
 
 Languages & Tools:
 
-![java icon](github_image/java.png)
+![java icon](github_image/icons8-java-48.png)
 ![visual studio icon](github_image/visual_studio.png)
 ![javascript](github_image/js.png)
 ![react icon](github_image/react.png)
