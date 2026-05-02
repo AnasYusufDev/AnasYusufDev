@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![github profile url](github_image/internet.png)](https://github.com/AnasYusufDev)
+[![github profile url](github_image/internet.png)](https://personal-portfolio-delta-rust-19.vercel.app)
 [![linkedin profile url](github_image/linkedin.png)](https://www.linkedin.com/in/anas-yusuf-85a033264/)
 [![facebook profile url](github_image/facebook.png)](https://www.facebook.com/anas.ayusuf.3?locale=da_DK)
 
